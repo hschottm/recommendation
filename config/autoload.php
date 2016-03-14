@@ -1,15 +1,12 @@
 <?php
 
 /**
- * Contao Open Source CMS
- * 
- * Copyright (C) 2005-2013 Leo Feyer
- * 
- * @package Recommendation
- * @link    https://contao.org
- * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
+ * Contao Open Source CMS - Recommendation extension
+ *
+ * Copyright (c) 2009-2016 Helmut Schottmüller
+ *
+ * @license LGPL-3.0+
  */
-
 
 /**
  * Register the classes

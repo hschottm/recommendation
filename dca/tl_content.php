@@ -1,10 +1,11 @@
 <?php
 
 /**
- * @copyright  Helmut Schottmüller 2009-2013
- * @author     Helmut Schottmüller <https://github.com/hschottm/recommendation>
- * @package    recommendation
- * @license    LGPL
+ * Contao Open Source CMS - Recommendation extension
+ *
+ * Copyright (c) 2009-2016 Helmut Schottmüller
+ *
+ * @license LGPL-3.0+
  */
 
 $GLOBALS['TL_DCA']['tl_content']['palettes']['recommendation'] = '{type_legend},type,headline;{recommendation_legend},recommendation_linktext,recommendation_subject,recommendation_body;{protected_legend:hide},protected;{expert_legend},{expert_legend:hide},guests,cssID,space';
